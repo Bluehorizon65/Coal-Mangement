@@ -4,15 +4,15 @@ This is a management system for Coal Mines, Made with Java and with Mysql as the
 
 ## Login Information
 ------------------
--Admin Login
--Worker Login 
+#### Admin Login
+#### Worker Login 
 
 
 ## Gui Information 
 ----------------
--Admin GUI
--Worker GUI
--Login GUI
+#### Admin GUI
+#### Worker GUI
+#### Login GUI
 
 
 ## Database Diagram
